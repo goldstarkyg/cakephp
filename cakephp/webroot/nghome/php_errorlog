@@ -1,0 +1,10 @@
+[12-Aug-2017 19:41:50 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digital3/public_html/ofisina/webroot/nghome/registration_detail.php on line 20
+[12-Aug-2017 19:53:50 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digital3/public_html/ofisina/webroot/nghome/registration_detail.php on line 20
+[12-Aug-2017 20:02:50 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digital3/public_html/ofisina/webroot/nghome/registration_detail.php on line 20
+[13-Aug-2017 04:37:58 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digital3/public_html/ofisina/webroot/nghome/registration_detail.php on line 20
+[13-Aug-2017 04:40:02 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digital3/public_html/ofisina/webroot/nghome/registration_detail.php on line 20
+[13-Aug-2017 11:18:36 CST6CDT] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/digital3/public_html/ofisina/webroot/nghome/registration_detail.php on line 20
+[13-Aug-2017 11:45:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/digital3/public_html/ofisina/webroot/nghome/login.php on line 13
+[13-Aug-2017 11:48:55 CST6CDT] PHP Catchable fatal error:  Object of class mysqli could not be converted to string in /home/digital3/public_html/ofisina/webroot/nghome/login.php on line 51
+[13-Aug-2017 11:57:51 CST6CDT] PHP Fatal error:  Call to a member function query() on boolean in /home/digital3/public_html/ofisina/webroot/nghome/login.php on line 6
+[13-Aug-2017 11:58:21 CST6CDT] PHP Fatal error:  Call to a member function query() on boolean in /home/digital3/public_html/ofisina/webroot/nghome/login.php on line 6
